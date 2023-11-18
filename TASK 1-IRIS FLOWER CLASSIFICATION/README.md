@@ -11,7 +11,7 @@ Iris flower has three species; setosa, versicolor, and virginica, which differs 
 ## `Tech Stack Used`
 <li>Google Colab</li>
 <li>Python</li>
-ok
+
 ## `Installation`
 <li>Github repository: https://github.com/manasdutta04/OIBSIP </li>
 <li>© Manas dutta</li>
